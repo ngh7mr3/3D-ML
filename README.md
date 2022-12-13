@@ -11,3 +11,13 @@ Used model - [Cybertruck](https://sketchfab.com/3d-models/low-poly-tesla-cybertr
 ![Voxels representation](img/voxels.jpg)
 3. Point cloud representation
 ![Cloud point](img/point_cloud.jpg)
+
+## Lab 2
+### ICP algorithm
+1. Combined models containing "error"
+![ICP Source](img/ipc_source.jpg)
+2. Restored version result
+![ICP Result](img/ipc.jpg)
+
+### Make a cybertruck from sphere!
+![Cybertruck animation](img/sphere_to_cybertruck.gif)
