@@ -21,3 +21,12 @@ Used model - [Cybertruck](https://sketchfab.com/3d-models/low-poly-tesla-cybertr
 
 ### Make a cybertruck from sphere!
 ![Cybertruck animation](img/sphere_to_cybertruck.gif)
+
+## Final lab
+1. Load points cloud of some environment and find some car (using CloudCompare)
+![Car to plane](img/car_on_map.jpg)
+3. Clean out bad points from it and convert cloud to mesh (using Meshlab)
+![Car to plane](img/meshlab.jpg)
+![Car to plane](img/car_mesh.jpg)
+4. Using previous steps from labs 1&2 convert car's mesh into plane's mesh (note: convex hull is used)
+![Car to plane](img/car_to_plane.gif)
